@@ -2,7 +2,7 @@
 # Project Overview
 
 ## Microservices
- - [Flight Service](https://github.com/pushprajjaiswal/Flight-Service)
+ - [Flight Service](https://github.com/pushprajjaiswal/Flight-Booking-Service-Backend)
  - [Flight Booking Service](https://github.com/pushprajjaiswal/Flight-Booking-Service/)
  - [Flight Notification Service](https://github.com/pushprajjaiswal/Flight-Notification-Service)
 
