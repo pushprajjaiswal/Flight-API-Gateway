@@ -27,7 +27,7 @@ Collectively, these microservices work together to create a robust flight manage
 - **RabbitMQ**
 
 
-## Flight Booking Service
+## Flight API Gateway Service
 
 ## Description
 
